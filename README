@@ -1,0 +1,9 @@
+The ROTX cipher is an enocoding that, given a message, returns a message where each letter has been replaced by the letter exactly x letters after it in the alphabet ordering. Letters near the end of the alphabet wrap around.
+
+Ruby version: ruby 2.0.0p247
+
+To run solution 1:
+  ruby rotx_solution_1.rb
+
+To run solution 2:
+  ruby rotx_solution_2.rb
